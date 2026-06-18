@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Fynex Video Call</title>
+
+<link rel="stylesheet"
+href="call.css">
+
+</head>
+
+<body>
+
+<div class="call-container">
+
+    <div class="video-section">
+
+        <video
+        id="localVideo"
+        autoplay
+        muted>
+        </video>
+
+        <video
+        id="remoteVideo"
+        autoplay>
+        </video>
+
+    </div>
+
+    <div class="controls">
+
+        <button id="startCall">
+            📞 Call
+        </button>
+
+        <button id="toggleMic">
+            🎤
+        </button>
+
+        <button id="toggleCamera">
+            📷
+        </button>
+
+        <button id="shareScreen">
+            🖥️
+        </button>
+
+        <button id="endCall">
+            ❌
+        </button>
+
+    </div>
+
+</div>
+
+<script src=
+"https://cdn.socket.io/4.7.5/socket.io.min.js">
+</script>
+
+<script src="call.js"></script>
+
+</body>
+</html>

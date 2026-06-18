@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>
+Fynex Chat
+</title>
+
+<link rel="stylesheet"
+href="chat.css">
+
+</head>
+
+<body>
+
+<div class="chat-container">
+
+    <!-- Sidebar -->
+
+    <div class="users-panel">
+
+        <h2>
+
+            Users
+
+        </h2>
+
+        <div id="usersList">
+
+        </div>
+
+    </div>
+
+    <!-- Chat Area -->
+
+    <div class="chat-panel">
+
+        <div
+        id="messages">
+
+        </div>
+
+        <div
+        id="typing">
+
+        </div>
+
+        <div
+        class="input-area">
+
+            <input
+
+            id="messageInput"
+
+            placeholder=
+            "Type message">
+
+            <button
+            id="sendBtn">
+
+            Send
+
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src=
+"https://cdn.socket.io/4.7.5/socket.io.min.js">
+
+</script>
+
+<script src=
+"chat.js">
+
+</script>
+
+</body>
+
+</html>
+<div class="search-bar">
+
+<input
+
+type="text"
+
+id="searchInput"
+
+placeholder=
+"Search Messages...">
+
+</div>
+<select id="emojiPicker">
+
+<option>😀</option>
+<option>😂</option>
+<option>😍</option>
+<option>🔥</option>
+<option>❤️</option>
+<option>👍</option>
+
+</select>
+
+<input
+type="file"
+id="fileInput"
+hidden>
+
+<button
+id="uploadBtn">
+
+📎
+
+</button>
+
+<div class="input-area">
+
+<button id="uploadBtn">
+
+📎
+
+</button>
+
+<input
+type="file"
+id="fileInput"
+hidden>
+
+<input
+id="messageInput">
+
+<button
+id="sendBtn">
+
+Send
+
+</button>
+
+</div>
+
+<button id="recordBtn">
+🎤
+</button>
+
+<div class="input-area">
+
+    <button id="uploadBtn">
+        📎
+    </button>
+
+    <button id="recordBtn">
+        🎤
+    </button>
+
+    <input
+    id="messageInput">
+
+    <button id="sendBtn">
+        Send
+    </button>
+
+</div>
+
+<div id="smartReplies">
+
+</div>
+
+<button id="translateBtn">
+
+🌐 Translate
+
+</button>
+
+<button id="summaryBtn">
+
+📝 Summary
+
+</button>
+

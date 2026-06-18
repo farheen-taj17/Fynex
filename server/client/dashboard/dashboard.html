@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Fynex Dashboard</title>
+
+<link rel="stylesheet" href="dashboard.css">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="dashboard">
+
+    <!-- Sidebar -->
+
+    <aside class="sidebar">
+
+        <div class="logo-container">
+
+            <div class="logo-circle">
+                F
+            </div>
+
+            <h2>Fynex</h2>
+
+        </div>
+
+        <nav>
+
+            <a href="#">
+                <i class="fas fa-home"></i>
+                Dashboard
+            </a>
+
+            <a href="../chat/chat.html">
+                <i class="fas fa-comments"></i>
+                Chats
+            </a>
+
+            <a href="../groups/groups.html">
+                <i class="fas fa-users"></i>
+                Groups
+            </a>
+
+            <a href="#">
+                <i class="fas fa-phone"></i>
+                Calls
+            </a>
+
+            <a href="#">
+                <i class="fas fa-robot"></i>
+                AI Assistant
+            </a>
+
+            <a href="#">
+                <i class="fas fa-user"></i>
+                Profile
+            </a>
+
+            <a href="#">
+                <i class="fas fa-cog"></i>
+                Settings
+            </a>
+
+        </nav>
+
+        <button id="logoutBtn">
+
+            Logout
+
+        </button>
+
+    </aside>
+
+    <!-- Main Area -->
+
+    <main class="main-content">
+
+        <header>
+
+            <h1>
+
+                Welcome To Fynex 🚀
+
+            </h1>
+
+            <p>
+
+                Modern Real-Time Communication Platform
+
+            </p>
+
+        </header>
+
+        <!-- Statistics -->
+
+        <section class="stats">
+
+            <div class="card">
+
+                <h2 id="usersCount">
+                    0
+                </h2>
+
+                <p>Total Users</p>
+
+            </div>
+
+            <div class="card">
+
+                <h2 id="groupsCount">
+                    0
+                </h2>
+
+                <p>Groups</p>
+
+            </div>
+
+            <div class="card">
+
+                <h2 id="messagesCount">
+                    0
+                </h2>
+
+                <p>Messages</p>
+
+            </div>
+
+            <div class="card">
+
+                <h2>
+                    AI
+                </h2>
+
+                <p>Assistant Ready</p>
+
+            </div>
+
+        </section>
+
+        <!-- Quick Actions -->
+
+        <section class="quick-actions">
+
+            <button onclick="openChat()">
+                💬 Open Chat
+            </button>
+
+            <button onclick="openGroups()">
+                👥 Groups
+            </button>
+
+            <button>
+                📞 Start Call
+            </button>
+
+            <button>
+                🤖 AI Assistant
+            </button>
+
+        </section>
+
+        <!-- Widgets -->
+
+        <section class="widgets">
+
+            <div class="widget">
+
+                <h3>🟢 Online Users</h3>
+
+                <div id="onlineUsers">
+
+                    Loading...
+
+                </div>
+
+            </div>
+
+            <div class="widget">
+
+                <h3>📢 Recent Activity</h3>
+
+                <div id="activity">
+
+                    No Activity Yet
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+</div>
+
+<script src="dashboard.js"></script>
+
+</body>
+</html>
+
