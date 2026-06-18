@@ -11,6 +11,9 @@
 
 Build • Collaborate • Communicate • Innovate
 
+Fynex screenshorts
+<img width="1888" height="915" alt="Image" src="https://github.com/user-attachments/assets/45d4ed3c-b686-43d3-82f2-51d44c624642" />
+
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)]()
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-RealTime-black)]()
