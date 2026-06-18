@@ -11,7 +11,7 @@
 
 Build • Collaborate • Communicate • Innovate
 
-<img width="1888" height="915" alt="Image" src="https://github.com/user-attachments/assets/4545c008-a1b3-438b-8677-5f2d6ce36ffe" />
+
 
 
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green)]()
