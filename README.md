@@ -21,6 +21,8 @@ Fynex Screenshorts
 
 <img width="1875" height="902" alt="Image" src="https://github.com/user-attachments/assets/4018f79f-2934-4614-b478-24b8f9e31aa4" />
 
+<img width="1891" height="912" alt="Image" src="https://github.com/user-attachments/assets/0b34c213-9f31-4368-8906-68bf881dfe40" />
+
 
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)]()
