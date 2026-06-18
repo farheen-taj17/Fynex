@@ -11,7 +11,9 @@
 
 Build • Collaborate • Communicate • Innovate
 
+Fynex Screenshorts
 
+<img width="1888" height="915" alt="Image" src="https://github.com/user-attachments/assets/d155a69b-c0ff-4afd-9473-97cf3244edc2" />
 
 
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green)]()
