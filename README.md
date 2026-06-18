@@ -17,6 +17,9 @@ Fynex screenshorts
 Fynex Register
 <img width="1893" height="910" alt="Image" src="https://github.com/user-attachments/assets/557ffc17-f7f7-464b-91a7-85634f410944" />
 
+Fynex Group
+<img width="1891" height="912" alt="Image" src="https://github.com/user-attachments/assets/35ebc59a-6f93-46f2-a2f4-2c0db9ed8290" />
+
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)]()
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-RealTime-black)]()
