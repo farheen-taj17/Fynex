@@ -11,14 +11,7 @@
 
 Build • Collaborate • Communicate • Innovate
 
-Fynex screenshorts
-<img width="1888" height="915" alt="Image" src="https://github.com/user-attachments/assets/45d4ed3c-b686-43d3-82f2-51d44c624642" />
-
-Fynex Register
-<img width="1893" height="910" alt="Image" src="https://github.com/user-attachments/assets/557ffc17-f7f7-464b-91a7-85634f410944" />
-
-Fynex Group
-<img width="1891" height="912" alt="Image" src="https://github.com/user-attachments/assets/35ebc59a-6f93-46f2-a2f4-2c0db9ed8290" />
+<img width="1888" height="915" alt="Image" src="https://github.com/user-attachments/assets/4545c008-a1b3-438b-8677-5f2d6ce36ffe" />
 
 
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green)]()
